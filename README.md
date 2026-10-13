@@ -1,5 +1,9 @@
 # Deskdo Android
 
+> **已經搬到 [adaizaiganma/deskdo](https://github.com/adaizaiganma/deskdo)**（`android/`）。從 1.0.0 開始，電腦版和 Android 版在同一個 repo、同一個 Release，新版 APK 請到 [那邊的 Releases](https://github.com/adaizaiganma/deskdo/releases/latest) 下載。
+>
+> 這個 repo 保留給 0.7.0–0.10.x 的 App 檢查更新用：它們會在這裡找到 1.0.0，更新之後就改查新的 repo。以下是搬家前的說明。
+
 Deskdo 的 Android 版：待辦清單 App，加上手機主畫面的小工具。資料存在你自己的 Cloudflare 帳號，和[電腦版](https://github.com/adaizaiganma/deskdo)同步，也可以透過 MCP 連接器讓 Claude 等 AI 助理讀寫。
 
 **一般使用者**：到 [Releases](../../releases/latest) 下載 `Deskdo_*_arm64.apk` 安裝。第一次開啟時，設定精靈會帶你登入 Cloudflare；已經在電腦上設定過的話，用同一個帳號登入就會把這支手機加入。
